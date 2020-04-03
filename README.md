@@ -1,5 +1,5 @@
 # hello-world
-My very first repository
+
 My name is Angelina. 
 I try to evolve every day of my life, that's why I'm here.
 I like sport, reading, cooking and exploring this world.
